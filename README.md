@@ -1,6 +1,6 @@
 # 📱 Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-![Diagrama UML do iPhone](imagem\uml_iphone.png)
+![Diagrama UML do iPhone](imagem/uml_iphone.png)
 
 
 Este é um **diagrama UML** que representa uma estrutura de classes e interfaces para um sistema que inclui uma modelagem do **iPhone**, um dispositivo que incorpora funcionalidades de um **reprodutor de música**, um **telefone** e um **navegador de internet**.
